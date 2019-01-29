@@ -7,13 +7,13 @@
 
 ## Requirements
 Python 3.x  
-pillow (PIL) module
-os module
+pillow (PIL) module  
+os module  
 glob module  
 
 ## Installation
 
-[git](https://git-scm.com/)을 사용하거나 [Xeros Archive Repository](https://repository.xeros.info) CouponImageGenerator을 설치할 수 있습니다.  
+[git](https://git-scm.com/)을 사용하거나 [Xeros Archive Repository](https://repository.xeros.info)에서 CouponImageGenerator을 설치할 수 있습니다.  
 
 ```bash
 git clone https://github.com/HackerXeros/CouponImageGenerator.git
