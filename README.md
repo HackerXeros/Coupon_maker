@@ -38,4 +38,4 @@ Release 1.0.0 2018-11-09 | 업로드
 Release 1.1.0 2019-01-30 | Tkinter을 사용 할 필요성이 없어보여서 제거함
 
 ## License
-[MIT 라이센스](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
