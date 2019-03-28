@@ -13,15 +13,15 @@ glob module
 
 ## Installation
 
-[git](https://git-scm.com/)을 사용하거나 [Xeros Archive Repository](https://repository.xeros.info) CouponImageGenerator을 설치할 수 있습니다.  
+[git](https://git-scm.com/)을 사용하거나 [Xeros Archive Repository](https://repository.xeros.dev) CouponImageGenerator을 설치할 수 있습니다.  
 
 ```bash
 git clone https://github.com/HackerXeros/CouponImageGenerator.git
 ```
 ```bash
-https://repository.xeros.info/archive-python/CouponImageGenerator/Current-Version/CouponImageGenerator.zip
-https://repository.xeros.info/archive-python/CouponImageGenerator/Current-Version/CouponImageGenerator.tar
-https://repository.xeros.info/archive-python/CouponImageGenerator/Current-Version/CouponImageGenerator.tar.gz
+https://repository.xeros.dev/archive-python/CouponImageGenerator/Current-Version/CouponImageGenerator.zip
+https://repository.xeros.dev/archive-python/CouponImageGenerator/Current-Version/CouponImageGenerator.tar
+https://repository.xeros.dev/archive-python/CouponImageGenerator/Current-Version/CouponImageGenerator.tar.gz
 ```
 
 ## Usage
